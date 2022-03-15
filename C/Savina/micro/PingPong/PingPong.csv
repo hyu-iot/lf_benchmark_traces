@@ -1,0 +1,19 @@
+Event, Reactor, Reaction, Worker, Elapsed Logical Time, Microstep, Elapsed Physical Time, Trigger, Extra Delay
+Reaction starts, PingPong, 0, 0, 0, 0, 659318, NO TRIGGER, 0
+Reaction ends, PingPong, 0, 0, 0, 0, 663771, NO TRIGGER, 0
+Reaction starts, runner, 0, 0, 0, 0, 664251, NO TRIGGER, 0
+Schedule called, runner, 0, 0, 0, 0, 701575, runner.nextIteration, 0
+Reaction ends, runner, 0, 0, 0, 0, 702158, NO TRIGGER, 0
+Schedule called, ping, 0, 0, 0, 1, 2178779, ping.serve, 0
+Schedule called, runner, 0, 0, 0, 1, 2306456, runner.nextIteration, 0
+Reaction starts, pong, 1, 21, 0, 1, 2260863, NO TRIGGER, 0
+Reaction starts, runner, 1, 23, 0, 1, 2176019, NO TRIGGER, 0
+Reaction ends, runner, 1, 23, 0, 1, 2176531, NO TRIGGER, 0
+Reaction starts, ping, 0, 23, 0, 1, 2176796, NO TRIGGER, 0
+Reaction ends, ping, 0, 23, 0, 1, 2176947, NO TRIGGER, 0
+Reaction starts, pong, 0, 23, 0, 1, 2177162, NO TRIGGER, 0
+Reaction ends, pong, 0, 23, 0, 1, 2177347, NO TRIGGER, 0
+Reaction starts, ping, 1, 23, 0, 1, 2178107, NO TRIGGER, 0
+Reaction ends, ping, 1, 23, 0, 1, 2179119, NO TRIGGER, 0
+Reaction starts, runner, 2, 23, 0, 1, 2256972, NO TRIGGER, 0
+Reaction ends, runner, 2, 23, 0, 1, 2306933, NO TRIGGER, 0

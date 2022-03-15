@@ -1,0 +1,68 @@
+Start time:, 1647330638379839550
+End time:, 1647330638384608496
+Total time:, 4768946
+
+Reaction Executions
+Reactor, Reaction, Occurrences, Total Time, Pct Total Time, Avg Time, Max Time, Min Time
+manager, 0, 1, 41737, 0.875183, 41737, 41737, 41737
+manager, 1, 15, 14230, 0.298389, 948, 2357, 543
+runner, 0, 1, 1350, 0.028308, 1350, 1350, 1350
+runner, 1, 15, 6024, 0.126317, 401, 757, 203
+runner, 2, 15, 160952, 3.375002, 10730, 38981, 3654
+runner, 3, 2, 77322, 1.621365, 38661, 47671, 29651
+seriesWorkers, 0, 12, 2622, 0.054981, 218, 342, 86
+seriesWorkers, 1, 15, 5144, 0.107865, 342, 1074, 150
+seriesWorkers, 2, 15, 3377, 0.070812, 225, 400, 87
+seriesWorkers.computer, 0, 1, 110, 0.002307, 110, 110, 110
+seriesWorkers.computer, 1, 15, 4743, 0.099456, 316, 507, 202
+seriesWorkers, 0, 12, 2155, 0.045188, 179, 330, 86
+seriesWorkers, 1, 15, 3456, 0.072469, 230, 460, 105
+seriesWorkers, 2, 15, 3040, 0.063746, 202, 934, 37
+seriesWorkers.computer, 0, 1, 87, 0.001824, 87, 87, 87
+seriesWorkers.computer, 1, 15, 4772, 0.100064, 318, 470, 200
+seriesWorkers, 0, 12, 1885, 0.039527, 157, 280, 89
+seriesWorkers, 1, 15, 3796, 0.079598, 253, 487, 68
+seriesWorkers, 2, 15, 3534, 0.074104, 235, 910, 48
+seriesWorkers.computer, 0, 1, 124, 0.002600, 124, 124, 124
+seriesWorkers.computer, 1, 15, 5454, 0.114365, 363, 612, 212
+seriesWorkers, 0, 12, 2462, 0.051626, 205, 410, 80
+seriesWorkers, 1, 15, 4316, 0.090502, 287, 483, 89
+seriesWorkers, 2, 15, 3778, 0.079221, 251, 860, 83
+seriesWorkers.computer, 0, 1, 87, 0.001824, 87, 87, 87
+seriesWorkers.computer, 1, 15, 5510, 0.115539, 367, 1050, 150
+seriesWorkers, 0, 12, 1973, 0.041372, 164, 284, 48
+seriesWorkers, 1, 15, 5296, 0.111052, 353, 1004, 76
+seriesWorkers, 2, 15, 3270, 0.068569, 218, 377, 60
+seriesWorkers.computer, 0, 1, 110, 0.002307, 110, 110, 110
+seriesWorkers.computer, 1, 15, 3943, 0.082681, 262, 394, 136
+seriesWorkers, 0, 12, 2104, 0.044119, 175, 334, 68
+seriesWorkers, 1, 15, 4058, 0.085092, 270, 517, 67
+seriesWorkers, 2, 15, 3112, 0.065256, 207, 366, 47
+seriesWorkers.computer, 0, 1, 117, 0.002453, 117, 117, 117
+seriesWorkers.computer, 1, 15, 13731, 0.287925, 915, 9003, 141
+seriesWorkers, 0, 12, 2006, 0.042064, 167, 370, 82
+seriesWorkers, 1, 15, 4634, 0.097170, 308, 630, 84
+seriesWorkers, 2, 15, 2965, 0.062173, 197, 383, 35
+seriesWorkers.computer, 0, 1, 140, 0.002936, 140, 140, 140
+seriesWorkers.computer, 1, 15, 4757, 0.099750, 317, 897, 127
+seriesWorkers, 0, 12, 1848, 0.038751, 154, 327, 75
+seriesWorkers, 1, 15, 6127, 0.128477, 408, 957, 116
+seriesWorkers, 2, 15, 3181, 0.066702, 212, 347, 43
+seriesWorkers.computer, 0, 1, 106, 0.002223, 106, 106, 106
+seriesWorkers.computer, 1, 15, 3636, 0.076243, 242, 400, 82
+seriesWorkers, 0, 12, 2138, 0.044832, 178, 330, 40
+seriesWorkers, 1, 15, 6548, 0.137305, 436, 954, 89
+seriesWorkers, 2, 15, 2959, 0.062047, 197, 403, 94
+seriesWorkers.computer, 0, 1, 106, 0.002223, 106, 106, 106
+seriesWorkers.computer, 1, 15, 4255, 0.089223, 283, 434, 177
+seriesWorkers, 0, 12, 2078, 0.043574, 173, 293, 116
+seriesWorkers, 1, 15, 4762, 0.099854, 317, 554, 126
+seriesWorkers, 2, 15, 2461, 0.051605, 164, 374, 54
+seriesWorkers.computer, 0, 1, 190, 0.003984, 190, 190, 190
+seriesWorkers.computer, 1, 15, 3875, 0.081255, 258, 447, 106
+
+Schedule calls
+Trigger, Occurrences
+manager.next, 16
+runner.nextIteration, 16
+runner.done, 3

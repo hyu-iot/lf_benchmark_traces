@@ -1,0 +1,18 @@
+Start time:, 1647327732043059883
+End time:, 1647327732045366816
+Total time:, 2306933
+
+Reaction Executions
+Reactor, Reaction, Occurrences, Total Time, Pct Total Time, Avg Time, Max Time, Min Time
+PingPong, 0, 1, 4453, 0.193027, 4453, 4453, 4453
+runner, 0, 1, 37907, 1.643177, 37907, 37907, 37907
+runner, 1, 1, 512, 0.022194, 512, 512, 512
+runner, 2, 1, 49961, 2.165689, 49961, 49961, 49961
+ping, 0, 1, 151, 0.006545, 151, 151, 151
+ping, 1, 1, 1012, 0.043868, 1012, 1012, 1012
+pong, 0, 1, 185, 0.008019, 185, 185, 185
+
+Schedule calls
+Trigger, Occurrences
+runner.nextIteration, 2
+ping.serve, 1
