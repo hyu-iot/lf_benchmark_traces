@@ -19,3 +19,7 @@ To convert the `.lft` files into JSON files for the Chrome trace viewer, run
 And open the Chrome browser and type `chrome://tracing/` in the address bar.
 
 Then open the JSON file created.
+
+### Building trace_to_chrome
+
+To build necessary utils and tools for LF tracing (e.g., trace_to_chrome), see the [tracing wiki page](https://github.com/lf-lang/lingua-franca/wiki/Tracing#tracing-in-c-1).
