@@ -1,0 +1,665 @@
+Event, Reactor, Reaction, Worker, Elapsed Logical Time, Microstep, Elapsed Physical Time, Trigger, Extra Delay
+Reaction starts, runner, 0, 0, 0, 0, 207151, NO TRIGGER, 0
+Schedule called, runner, 0, 0, 0, 0, 227098, runner.nextIteration, 0
+Reaction ends, runner, 0, 0, 0, 0, 227518, NO TRIGGER, 0
+Reaction starts, factory, 0, 0, 0, 1, 254511, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 0, 1, 255131, factory.createNextCustomer, 254877
+Reaction ends, factory, 0, 0, 0, 1, 255281, NO TRIGGER, 0
+Reaction starts, barber, 0, 0, 0, 1, 255502, NO TRIGGER, 0
+Reaction ends, barber, 0, 0, 0, 1, 255582, NO TRIGGER, 0
+Reaction starts, room, 0, 0, 0, 1, 255733, NO TRIGGER, 0
+Reaction ends, room, 0, 0, 0, 1, 255814, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 254877, 0, 321192, factory.createNextCustomer, 65915
+Schedule called, barber, 0, 0, 254877, 0, 463824, barber.done, 208267
+Schedule called, factory, 0, 0, 320792, 0, 551522, factory.createNextCustomer, 230380
+Schedule called, barber, 0, 0, 463144, 0, 659067, barber.done, 195574
+Schedule called, factory, 0, 0, 551172, 0, 684484, factory.createNextCustomer, 132519
+Schedule called, barber, 0, 0, 658718, 0, 739565, barber.done, 80609
+Schedule called, factory, 0, 0, 683691, 0, 776552, factory.createNextCustomer, 92588
+Schedule called, barber, 0, 0, 739327, 0, 844420, barber.done, 104803
+Schedule called, factory, 0, 0, 776279, 0, 911238, factory.createNextCustomer, 134679
+Schedule called, barber, 0, 0, 844130, 0, 1003799, barber.done, 159353
+Schedule called, factory, 0, 0, 910958, 0, 1056273, factory.createNextCustomer, 145032
+Schedule called, barber, 0, 0, 1003483, 0, 1138681, barber.done, 134880
+Schedule called, factory, 0, 0, 1055990, 0, 1199252, factory.createNextCustomer, 142979
+Schedule called, barber, 0, 0, 1138363, 0, 1291017, barber.done, 152340
+Schedule called, factory, 0, 0, 1198969, 0, 1373241, factory.createNextCustomer, 174002
+Schedule called, barber, 0, 0, 1290703, 0, 1499930, barber.done, 208874
+Schedule called, factory, 0, 0, 1372971, 0, 1534394, factory.createNextCustomer, 161133
+Schedule called, barber, 0, 0, 1499577, 0, 1604975, barber.done, 104619
+Schedule called, factory, 0, 0, 1534104, 0, 1641522, factory.createNextCustomer, 107141
+Schedule called, barber, 0, 0, 1604196, 0, 1706256, barber.done, 101783
+Schedule called, factory, 0, 0, 1641245, 0, 1751474, factory.createNextCustomer, 109976
+Schedule called, barber, 0, 0, 1705979, 0, 1827498, barber.done, 121243
+Schedule called, factory, 0, 0, 1751221, 0, 1906253, factory.createNextCustomer, 154765
+Schedule called, barber, 0, 0, 1827222, 0, 2024478, barber.done, 196974
+Schedule called, runner, 0, 0, 1827222, 0, 2067802, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 1827222, 1, 2097146, factory.createNextCustomer, 269454
+Schedule called, factory, 0, 0, 1905986, 0, 2167987, factory.createNextCustomer, 253667
+Schedule called, barber, 0, 0, 1905986, 0, 2262422, barber.done, 355899
+Schedule called, runner, 0, 0, 2024196, 0, 2306582, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 2024196, 1, 2332093, factory.createNextCustomer, 307073
+Schedule called, factory, 0, 0, 2096676, 0, 2381013, factory.createNextCustomer, 284014
+Schedule called, barber, 0, 0, 2096676, 0, 2481518, barber.done, 384199
+Schedule called, factory, 0, 0, 2159653, 0, 2535713, factory.createNextCustomer, 375790
+Schedule called, barber, 0, 0, 2261885, 0, 2617267, barber.done, 354876
+Schedule called, runner, 0, 0, 2261885, 0, 2640947, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 2261885, 1, 2660688, factory.createNextCustomer, 398139
+Schedule called, factory, 0, 0, 2331269, 0, 2709908, factory.createNextCustomer, 378333
+Schedule called, barber, 0, 0, 2331269, 0, 2782060, barber.done, 450327
+Schedule called, factory, 0, 0, 2380690, 0, 2834167, factory.createNextCustomer, 453117
+Schedule called, barber, 0, 0, 2480875, 0, 2916178, barber.done, 434998
+Schedule called, runner, 0, 0, 2480875, 0, 2932702, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 2480875, 1, 2955575, factory.createNextCustomer, 474294
+Schedule called, factory, 0, 0, 2535443, 0, 3023827, factory.createNextCustomer, 487457
+Schedule called, barber, 0, 0, 2535443, 0, 3121598, barber.done, 585262
+Schedule called, runner, 0, 0, 2616761, 0, 3175966, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 2616761, 1, 3203066, factory.createNextCustomer, 585352
+Schedule called, factory, 0, 0, 2660024, 0, 3250857, factory.createNextCustomer, 590126
+Schedule called, barber, 0, 0, 2660024, 0, 3324335, barber.done, 663471
+Schedule called, factory, 0, 0, 2709602, 0, 3376859, factory.createNextCustomer, 666853
+Schedule called, barber, 0, 0, 2781596, 0, 3458147, barber.done, 675835
+Schedule called, runner, 0, 0, 2781596, 0, 3478657, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 2781596, 1, 3492954, factory.createNextCustomer, 710874
+Reaction starts, factory, 1, 0, 2833807, 0, 3497271, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 2833807, 0, 3515302, factory.createNextCustomer, 680972
+Reaction ends, factory, 1, 0, 2833807, 0, 3515558, NO TRIGGER, 0
+Reaction starts, room, 1, 0, 2833807, 0, 3516241, NO TRIGGER, 0
+Reaction ends, room, 1, 0, 2833807, 0, 3516454, NO TRIGGER, 0
+Reaction starts, barber, 2, 0, 2833807, 0, 3526457, NO TRIGGER, 0
+Schedule called, barber, 0, 0, 2833807, 0, 3544145, barber.done, 709931
+Reaction ends, barber, 2, 0, 2833807, 0, 3544302, NO TRIGGER, 0
+Reaction starts, customers, 2, 0, 2833807, 0, 3549449, NO TRIGGER, 0
+Reaction ends, customers, 2, 0, 2833807, 0, 3549529, NO TRIGGER, 0
+Reaction starts, barber, 1, 0, 2915873, 0, 3550411, NO TRIGGER, 0
+Reaction ends, barber, 1, 0, 2915873, 0, 3550670, NO TRIGGER, 0
+Reaction starts, room, 2, 0, 2915873, 0, 3556029, NO TRIGGER, 0
+Reaction ends, room, 2, 0, 2915873, 0, 3556133, NO TRIGGER, 0
+Reaction starts, customers, 3, 0, 2915873, 0, 3556352, NO TRIGGER, 0
+Reaction ends, customers, 3, 0, 2915873, 0, 3556459, NO TRIGGER, 0
+Reaction starts, factory, 4, 0, 2915873, 0, 3557108, NO TRIGGER, 0
+Reaction ends, factory, 4, 0, 2915873, 0, 3557253, NO TRIGGER, 0
+Reaction starts, runner, 2, 0, 2915873, 0, 3557693, NO TRIGGER, 0
+Schedule called, runner, 0, 0, 2915873, 0, 3561080, runner.nextIteration, 0
+Reaction ends, runner, 2, 0, 2915873, 0, 3561199, NO TRIGGER, 0
+Reaction starts, runner, 1, 0, 2915873, 1, 3562009, NO TRIGGER, 0
+Reaction ends, runner, 1, 0, 2915873, 1, 3562159, NO TRIGGER, 0
+Reaction starts, factory, 0, 0, 2915873, 1, 3570434, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 2915873, 1, 3570945, factory.createNextCustomer, 654721
+Reaction ends, factory, 0, 0, 2915873, 1, 3571033, NO TRIGGER, 0
+Reaction starts, barber, 0, 0, 2915873, 1, 3571218, NO TRIGGER, 0
+Reaction ends, barber, 0, 0, 2915873, 1, 3571311, NO TRIGGER, 0
+Reaction starts, room, 0, 0, 2915873, 1, 3571461, NO TRIGGER, 0
+Reaction ends, room, 0, 0, 2915873, 1, 3571534, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 2955169, 0, 3619756, factory.createNextCustomer, 664067
+Schedule called, barber, 0, 0, 2955169, 0, 3690807, barber.done, 734718
+Schedule called, factory, 0, 0, 3022900, 0, 3744154, factory.createNextCustomer, 720758
+Schedule called, barber, 0, 0, 3120705, 0, 3824079, barber.done, 702835
+Schedule called, runner, 0, 0, 3120705, 0, 3847399, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 3120705, 1, 3861603, factory.createNextCustomer, 740348
+Schedule called, factory, 0, 0, 3202113, 0, 3926937, factory.createNextCustomer, 723211
+Schedule called, barber, 0, 0, 3202113, 0, 4023532, barber.done, 819786
+Schedule called, factory, 0, 0, 3250150, 0, 4102133, factory.createNextCustomer, 844086
+Schedule called, barber, 0, 0, 3323495, 0, 4210342, barber.done, 885861
+Schedule called, runner, 0, 0, 3323495, 0, 4237025, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 3323495, 1, 4262076, factory.createNextCustomer, 937321
+Schedule called, factory, 0, 0, 3376455, 0, 4325353, factory.createNextCustomer, 947891
+Schedule called, barber, 0, 0, 3376455, 0, 4423228, barber.done, 1045120
+Schedule called, runner, 0, 0, 3457431, 0, 4473672, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 3457431, 1, 4516999, factory.createNextCustomer, 1058022
+Reaction starts, barber, 0, 0, 3457431, 1, 4517904, NO TRIGGER, 0
+Reaction ends, barber, 0, 0, 3457431, 1, 4518103, NO TRIGGER, 0
+Schedule called, factory, 0, 0, 3492470, 0, 4567337, factory.createNextCustomer, 1073680
+Schedule called, barber, 0, 0, 3492470, 0, 4666939, barber.done, 1173485
+Schedule called, factory, 0, 0, 3514779, 0, 4717736, factory.createNextCustomer, 1202260
+Schedule called, barber, 0, 0, 3543738, 0, 4794337, barber.done, 1249940
+Schedule called, runner, 0, 0, 3543738, 0, 4816064, runner.nextIteration, 0
+Schedule called, factory, 0, 0, 3543738, 1, 4835641, factory.createNextCustomer, 1291160
+Schedule called, factory, 0, 0, 3570594, 0, 4881509, factory.createNextCustomer, 1310251
+Schedule called, barber, 0, 0, 3570594, 0, 4948540, barber.done, 1377196
+Schedule called, factory, 0, 0, 3619236, 0, 4997890, factory.createNextCustomer, 1377988
+Schedule called, barber, 0, 0, 3689887, 0, 5072871, barber.done, 1382299
+Schedule called, runner, 0, 0, 3689887, 0, 5093528, runner.nextIteration, 0
+Schedule called, runner, 0, 0, 3689887, 1, 5095138, runner.done, 0
+Reaction starts, factory, 0, 1, 2024196, 1, 2330529, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 2024196, 1, 2332553, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2096676, 0, 2335933, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2096676, 0, 2381190, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2096676, 0, 2382260, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2096676, 0, 2382507, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2096676, 0, 2408917, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2096676, 0, 2482065, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2096676, 0, 2495972, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2096676, 0, 2496125, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2159653, 0, 2497432, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2159653, 0, 2535863, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2159653, 0, 2536429, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2159653, 0, 2536946, NO TRIGGER, 0
+Reaction starts, customers, 1, 1, 2159653, 0, 2563233, NO TRIGGER, 0
+Reaction ends, customers, 1, 1, 2159653, 0, 2563359, NO TRIGGER, 0
+Reaction starts, barber, 1, 1, 2261885, 0, 2564379, NO TRIGGER, 0
+Reaction ends, barber, 1, 1, 2261885, 0, 2564769, NO TRIGGER, 0
+Reaction starts, room, 2, 1, 2261885, 0, 2577630, NO TRIGGER, 0
+Reaction ends, room, 2, 1, 2261885, 0, 2578143, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2261885, 0, 2578623, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2261885, 0, 2617554, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2261885, 0, 2631877, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2261885, 0, 2631957, NO TRIGGER, 0
+Reaction starts, customers, 3, 1, 2261885, 0, 2632277, NO TRIGGER, 0
+Reaction ends, customers, 3, 1, 2261885, 0, 2632471, NO TRIGGER, 0
+Reaction starts, factory, 4, 1, 2261885, 0, 2633291, NO TRIGGER, 0
+Reaction ends, factory, 4, 1, 2261885, 0, 2633594, NO TRIGGER, 0
+Reaction starts, runner, 2, 1, 2261885, 0, 2634224, NO TRIGGER, 0
+Reaction ends, runner, 2, 1, 2261885, 0, 2641104, NO TRIGGER, 0
+Reaction starts, runner, 1, 1, 2261885, 1, 2642431, NO TRIGGER, 0
+Reaction ends, runner, 1, 1, 2261885, 1, 2642701, NO TRIGGER, 0
+Reaction starts, factory, 0, 1, 2261885, 1, 2659724, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 2261885, 1, 2660911, NO TRIGGER, 0
+Reaction starts, room, 0, 1, 2261885, 1, 2661581, NO TRIGGER, 0
+Reaction ends, room, 0, 1, 2261885, 1, 2661931, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2331269, 0, 2665678, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2331269, 0, 2710088, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2331269, 0, 2710775, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2331269, 0, 2710965, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2331269, 0, 2736059, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2331269, 0, 2782236, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2331269, 0, 2794697, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2331269, 0, 2794830, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2380690, 0, 2796017, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2380690, 0, 2834300, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2380690, 0, 2834797, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2380690, 0, 2835220, NO TRIGGER, 0
+Reaction starts, customers, 1, 1, 2380690, 0, 2861208, NO TRIGGER, 0
+Reaction ends, customers, 1, 1, 2380690, 0, 2861331, NO TRIGGER, 0
+Reaction starts, barber, 1, 1, 2480875, 0, 2862181, NO TRIGGER, 0
+Reaction ends, barber, 1, 1, 2480875, 0, 2862471, NO TRIGGER, 0
+Reaction starts, room, 2, 1, 2480875, 0, 2876011, NO TRIGGER, 0
+Reaction ends, room, 2, 1, 2480875, 0, 2876398, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2480875, 0, 2877264, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2480875, 0, 2916338, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2480875, 0, 2928615, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2480875, 0, 2928735, NO TRIGGER, 0
+Reaction starts, customers, 3, 1, 2480875, 0, 2929062, NO TRIGGER, 0
+Reaction ends, customers, 3, 1, 2480875, 0, 2929275, NO TRIGGER, 0
+Reaction starts, factory, 4, 1, 2480875, 0, 2929762, NO TRIGGER, 0
+Reaction ends, factory, 4, 1, 2480875, 0, 2929962, NO TRIGGER, 0
+Reaction starts, runner, 2, 1, 2480875, 0, 2930429, NO TRIGGER, 0
+Reaction ends, runner, 2, 1, 2480875, 0, 2932839, NO TRIGGER, 0
+Reaction starts, runner, 1, 1, 2480875, 1, 2939529, NO TRIGGER, 0
+Reaction ends, runner, 1, 1, 2480875, 1, 2939815, NO TRIGGER, 0
+Reaction starts, factory, 0, 1, 2480875, 1, 2954932, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 2480875, 1, 2955725, NO TRIGGER, 0
+Reaction starts, barber, 0, 1, 2480875, 1, 2956225, NO TRIGGER, 0
+Reaction ends, barber, 0, 1, 2480875, 1, 2956362, NO TRIGGER, 0
+Reaction starts, factory, 0, 1, 2616761, 1, 3201543, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 2616761, 1, 3203416, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2660024, 0, 3207683, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2660024, 0, 3251117, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2660024, 0, 3252160, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2660024, 0, 3252537, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2660024, 0, 3277747, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2660024, 0, 3324611, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2660024, 0, 3337845, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2660024, 0, 3337975, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2709602, 0, 3338808, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2709602, 0, 3377009, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2709602, 0, 3377479, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2709602, 0, 3377882, NO TRIGGER, 0
+Reaction starts, customers, 1, 1, 2709602, 0, 3404076, NO TRIGGER, 0
+Reaction ends, customers, 1, 1, 2709602, 0, 3404192, NO TRIGGER, 0
+Reaction starts, barber, 1, 1, 2781596, 0, 3405212, NO TRIGGER, 0
+Reaction ends, barber, 1, 1, 2781596, 0, 3405522, NO TRIGGER, 0
+Reaction starts, room, 2, 1, 2781596, 0, 3418266, NO TRIGGER, 0
+Reaction ends, room, 2, 1, 2781596, 0, 3418576, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2781596, 0, 3419036, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2781596, 0, 3458450, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2781596, 0, 3472380, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2781596, 0, 3472460, NO TRIGGER, 0
+Reaction starts, customers, 3, 1, 2781596, 0, 3472800, NO TRIGGER, 0
+Reaction ends, customers, 3, 1, 2781596, 0, 3472990, NO TRIGGER, 0
+Reaction starts, factory, 4, 1, 2781596, 0, 3473597, NO TRIGGER, 0
+Reaction ends, factory, 4, 1, 2781596, 0, 3473793, NO TRIGGER, 0
+Reaction starts, runner, 2, 1, 2781596, 0, 3474487, NO TRIGGER, 0
+Reaction ends, runner, 2, 1, 2781596, 0, 3478794, NO TRIGGER, 0
+Reaction starts, runner, 1, 1, 2781596, 1, 3479854, NO TRIGGER, 0
+Reaction ends, runner, 1, 1, 2781596, 1, 3480120, NO TRIGGER, 0
+Reaction starts, factory, 0, 1, 2781596, 1, 3492284, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 2781596, 1, 3493080, NO TRIGGER, 0
+Reaction starts, barber, 0, 1, 2781596, 1, 3493387, NO TRIGGER, 0
+Reaction ends, barber, 0, 1, 2781596, 1, 3493517, NO TRIGGER, 0
+Reaction starts, room, 0, 1, 2781596, 1, 3493754, NO TRIGGER, 0
+Reaction ends, room, 0, 1, 2781596, 1, 3493864, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 2955169, 0, 3574889, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 2955169, 0, 3619939, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 2955169, 0, 3620456, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 2955169, 0, 3620682, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 2955169, 0, 3645090, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 2955169, 0, 3691184, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 2955169, 0, 3704884, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 2955169, 0, 3705001, NO TRIGGER, 0
+Reaction starts, factory, 1, 1, 3022900, 0, 3705931, NO TRIGGER, 0
+Reaction ends, factory, 1, 1, 3022900, 0, 3744294, NO TRIGGER, 0
+Reaction starts, room, 1, 1, 3022900, 0, 3744804, NO TRIGGER, 0
+Reaction ends, room, 1, 1, 3022900, 0, 3745181, NO TRIGGER, 0
+Reaction starts, customers, 1, 1, 3022900, 0, 3771308, NO TRIGGER, 0
+Reaction ends, customers, 1, 1, 3022900, 0, 3771432, NO TRIGGER, 0
+Reaction starts, barber, 1, 1, 3120705, 0, 3772352, NO TRIGGER, 0
+Reaction ends, barber, 1, 1, 3120705, 0, 3772582, NO TRIGGER, 0
+Reaction starts, room, 2, 1, 3120705, 0, 3785095, NO TRIGGER, 0
+Reaction ends, room, 2, 1, 3120705, 0, 3785378, NO TRIGGER, 0
+Reaction starts, barber, 2, 1, 3120705, 0, 3785818, NO TRIGGER, 0
+Reaction ends, barber, 2, 1, 3120705, 0, 3824222, NO TRIGGER, 0
+Reaction starts, customers, 2, 1, 3120705, 0, 3843106, NO TRIGGER, 0
+Reaction ends, customers, 2, 1, 3120705, 0, 3843236, NO TRIGGER, 0
+Reaction starts, customers, 3, 1, 3120705, 0, 3843609, NO TRIGGER, 0
+Reaction ends, customers, 3, 1, 3120705, 0, 3843769, NO TRIGGER, 0
+Reaction starts, factory, 4, 1, 3120705, 0, 3844279, NO TRIGGER, 0
+Reaction ends, factory, 4, 1, 3120705, 0, 3844496, NO TRIGGER, 0
+Reaction starts, runner, 2, 1, 3120705, 0, 3845006, NO TRIGGER, 0
+Reaction ends, runner, 2, 1, 3120705, 0, 3847529, NO TRIGGER, 0
+Reaction starts, runner, 1, 1, 3120705, 1, 3848353, NO TRIGGER, 0
+Reaction ends, runner, 1, 1, 3120705, 1, 3848616, NO TRIGGER, 0
+Reaction starts, factory, 0, 1, 3120705, 1, 3860863, NO TRIGGER, 0
+Reaction ends, factory, 0, 1, 3120705, 1, 3861723, NO TRIGGER, 0
+Reaction starts, barber, 0, 1, 3120705, 1, 3861936, NO TRIGGER, 0
+Reaction ends, barber, 0, 1, 3120705, 1, 3862069, NO TRIGGER, 0
+Reaction starts, barber, 0, 2, 2024196, 1, 2328736, NO TRIGGER, 0
+Reaction ends, barber, 0, 2, 2024196, 1, 2329013, NO TRIGGER, 0
+Reaction starts, barber, 0, 2, 2616761, 1, 3201519, NO TRIGGER, 0
+Reaction ends, barber, 0, 2, 2616761, 1, 3201813, NO TRIGGER, 0
+Reaction starts, factory, 1, 2, 3492470, 0, 4524363, NO TRIGGER, 0
+Reaction ends, factory, 1, 2, 3492470, 0, 4567794, NO TRIGGER, 0
+Reaction starts, room, 1, 2, 3492470, 0, 4568844, NO TRIGGER, 0
+Reaction ends, room, 1, 2, 3492470, 0, 4569090, NO TRIGGER, 0
+Reaction starts, barber, 2, 2, 3492470, 0, 4593491, NO TRIGGER, 0
+Reaction ends, barber, 2, 2, 3492470, 0, 4667325, NO TRIGGER, 0
+Reaction starts, customers, 2, 2, 3492470, 0, 4680245, NO TRIGGER, 0
+Reaction ends, customers, 2, 2, 3492470, 0, 4680432, NO TRIGGER, 0
+Reaction starts, factory, 1, 2, 3514779, 0, 4681969, NO TRIGGER, 0
+Reaction ends, factory, 1, 2, 3514779, 0, 4717913, NO TRIGGER, 0
+Reaction starts, room, 1, 2, 3514779, 0, 4718503, NO TRIGGER, 0
+Reaction ends, room, 1, 2, 3514779, 0, 4719083, NO TRIGGER, 0
+Reaction starts, customers, 1, 2, 3514779, 0, 4743466, NO TRIGGER, 0
+Reaction ends, customers, 1, 2, 3514779, 0, 4743593, NO TRIGGER, 0
+Reaction starts, barber, 1, 2, 3543738, 0, 4744766, NO TRIGGER, 0
+Reaction ends, barber, 1, 2, 3543738, 0, 4745140, NO TRIGGER, 0
+Reaction starts, room, 2, 2, 3543738, 0, 4757740, NO TRIGGER, 0
+Reaction ends, room, 2, 2, 3543738, 0, 4758237, NO TRIGGER, 0
+Reaction starts, barber, 2, 2, 3543738, 0, 4758767, NO TRIGGER, 0
+Reaction ends, barber, 2, 2, 3543738, 0, 4794497, NO TRIGGER, 0
+Reaction starts, customers, 2, 2, 3543738, 0, 4806941, NO TRIGGER, 0
+Reaction ends, customers, 2, 2, 3543738, 0, 4807054, NO TRIGGER, 0
+Reaction starts, customers, 3, 2, 3543738, 0, 4807347, NO TRIGGER, 0
+Reaction ends, customers, 3, 2, 3543738, 0, 4807537, NO TRIGGER, 0
+Reaction starts, factory, 4, 2, 3543738, 0, 4808221, NO TRIGGER, 0
+Reaction ends, factory, 4, 2, 3543738, 0, 4808527, NO TRIGGER, 0
+Reaction starts, runner, 2, 2, 3543738, 0, 4809097, NO TRIGGER, 0
+Reaction ends, runner, 2, 2, 3543738, 0, 4816211, NO TRIGGER, 0
+Reaction starts, runner, 1, 2, 3543738, 1, 4817614, NO TRIGGER, 0
+Reaction ends, runner, 1, 2, 3543738, 1, 4817891, NO TRIGGER, 0
+Reaction starts, factory, 0, 2, 3543738, 1, 4834631, NO TRIGGER, 0
+Reaction ends, factory, 0, 2, 3543738, 1, 4835761, NO TRIGGER, 0
+Reaction starts, barber, 0, 2, 3543738, 1, 4835991, NO TRIGGER, 0
+Reaction ends, barber, 0, 2, 3543738, 1, 4836154, NO TRIGGER, 0
+Reaction starts, room, 0, 2, 3543738, 1, 4836381, NO TRIGGER, 0
+Reaction ends, room, 0, 2, 3543738, 1, 4836498, NO TRIGGER, 0
+Reaction starts, factory, 1, 2, 3570594, 0, 4839801, NO TRIGGER, 0
+Reaction ends, factory, 1, 2, 3570594, 0, 4881639, NO TRIGGER, 0
+Reaction starts, room, 1, 2, 3570594, 0, 4882229, NO TRIGGER, 0
+Reaction ends, room, 1, 2, 3570594, 0, 4882412, NO TRIGGER, 0
+Reaction starts, barber, 2, 2, 3570594, 0, 4906445, NO TRIGGER, 0
+Reaction ends, barber, 2, 2, 3570594, 0, 4948673, NO TRIGGER, 0
+Reaction starts, customers, 2, 2, 3570594, 0, 4961010, NO TRIGGER, 0
+Reaction ends, customers, 2, 2, 3570594, 0, 4961120, NO TRIGGER, 0
+Reaction starts, factory, 1, 2, 3619236, 0, 4962320, NO TRIGGER, 0
+Reaction ends, factory, 1, 2, 3619236, 0, 4998020, NO TRIGGER, 0
+Reaction starts, room, 1, 2, 3619236, 0, 4998474, NO TRIGGER, 0
+Reaction ends, room, 1, 2, 3619236, 0, 4998777, NO TRIGGER, 0
+Reaction starts, customers, 1, 2, 3619236, 0, 5022941, NO TRIGGER, 0
+Reaction ends, customers, 1, 2, 3619236, 0, 5023047, NO TRIGGER, 0
+Reaction starts, barber, 1, 2, 3689887, 0, 5023921, NO TRIGGER, 0
+Reaction ends, barber, 1, 2, 3689887, 0, 5024107, NO TRIGGER, 0
+Reaction starts, room, 2, 2, 3689887, 0, 5036581, NO TRIGGER, 0
+Reaction ends, room, 2, 2, 3689887, 0, 5036777, NO TRIGGER, 0
+Reaction starts, barber, 2, 2, 3689887, 0, 5037277, NO TRIGGER, 0
+Reaction ends, barber, 2, 2, 3689887, 0, 5073032, NO TRIGGER, 0
+Reaction starts, customers, 2, 2, 3689887, 0, 5085368, NO TRIGGER, 0
+Reaction ends, customers, 2, 2, 3689887, 0, 5085478, NO TRIGGER, 0
+Reaction starts, customers, 3, 2, 3689887, 0, 5085812, NO TRIGGER, 0
+Reaction ends, customers, 3, 2, 3689887, 0, 5085968, NO TRIGGER, 0
+Reaction starts, factory, 4, 2, 3689887, 0, 5090772, NO TRIGGER, 0
+Reaction ends, factory, 4, 2, 3689887, 0, 5090985, NO TRIGGER, 0
+Reaction starts, runner, 2, 2, 3689887, 0, 5091455, NO TRIGGER, 0
+Reaction ends, runner, 2, 2, 3689887, 0, 5093652, NO TRIGGER, 0
+Reaction starts, runner, 1, 2, 3689887, 1, 5094718, NO TRIGGER, 0
+Reaction ends, runner, 1, 2, 3689887, 1, 5095262, NO TRIGGER, 0
+Reaction starts, runner, 3, 2, 3689887, 2, 5096698, NO TRIGGER, 0
+Reaction ends, runner, 3, 2, 3689887, 2, 5103095, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 0, 1, 238691, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 0, 1, 239097, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 254877, 0, 259794, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 254877, 0, 321722, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 254877, 0, 322782, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 254877, 0, 323185, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 254877, 0, 357332, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 254877, 0, 464511, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 254877, 0, 495678, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 254877, 0, 496015, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 320792, 0, 498628, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 320792, 0, 551899, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 320792, 0, 552869, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 320792, 0, 553775, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 320792, 0, 585613, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 320792, 0, 585816, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 463144, 0, 588026, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 463144, 0, 588486, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 463144, 0, 605389, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 463144, 0, 606076, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 463144, 0, 607009, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 463144, 0, 659357, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 463144, 0, 676164, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 463144, 0, 676361, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 463144, 0, 677017, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 463144, 0, 677777, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 463144, 0, 679297, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 463144, 0, 679747, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 551172, 0, 681937, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 551172, 0, 684667, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 551172, 0, 685551, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 551172, 0, 686144, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 551172, 0, 716211, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 551172, 0, 716408, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 658718, 0, 717775, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 658718, 0, 718095, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 658718, 0, 735878, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 658718, 0, 736211, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 658718, 0, 736998, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 658718, 0, 739818, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 658718, 0, 756719, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 658718, 0, 756875, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 658718, 0, 757402, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 658718, 0, 757622, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 658718, 0, 758392, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 658718, 0, 758709, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 683691, 0, 759999, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 683691, 0, 776812, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 683691, 0, 777646, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 683691, 0, 778712, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 683691, 0, 808343, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 683691, 0, 808533, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 739327, 0, 809936, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 739327, 0, 810243, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 739327, 0, 826860, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 739327, 0, 827173, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 739327, 0, 827983, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 739327, 0, 844683, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 739327, 0, 861243, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 739327, 0, 861430, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 739327, 0, 861950, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 739327, 0, 862690, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 739327, 0, 863933, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 739327, 0, 864180, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 776279, 0, 873797, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 776279, 0, 911541, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 776279, 0, 912844, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 776279, 0, 913961, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 776279, 0, 946645, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 776279, 0, 946845, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 844130, 0, 948598, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 844130, 0, 948935, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 844130, 0, 965318, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 844130, 0, 965622, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 844130, 0, 966408, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 844130, 0, 1004076, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 844130, 0, 1019959, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 844130, 0, 1020143, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 844130, 0, 1021209, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 844130, 0, 1021416, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 844130, 0, 1022276, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 844130, 0, 1022596, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 910958, 0, 1024293, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 910958, 0, 1056546, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 910958, 0, 1057416, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 910958, 0, 1058013, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 910958, 0, 1089330, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 910958, 0, 1089490, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1003483, 0, 1091337, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1003483, 0, 1091634, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1003483, 0, 1107941, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1003483, 0, 1108221, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1003483, 0, 1108944, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1003483, 0, 1138918, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1003483, 0, 1157191, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1003483, 0, 1157388, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1003483, 0, 1157971, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1003483, 0, 1158208, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1003483, 0, 1158975, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1003483, 0, 1159778, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1055990, 0, 1161068, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1055990, 0, 1199529, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1055990, 0, 1200395, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1055990, 0, 1201035, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1055990, 0, 1234029, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1055990, 0, 1234203, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1138363, 0, 1235956, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1138363, 0, 1236243, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1138363, 0, 1250936, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1138363, 0, 1251229, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1138363, 0, 1251949, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1138363, 0, 1291273, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1138363, 0, 1308040, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1138363, 0, 1308217, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1138363, 0, 1308764, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1138363, 0, 1308994, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1138363, 0, 1309730, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1138363, 0, 1310577, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1198969, 0, 1311847, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1198969, 0, 1373508, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1198969, 0, 1374768, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1198969, 0, 1375921, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1198969, 0, 1408499, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1198969, 0, 1408705, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1290703, 0, 1410515, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1290703, 0, 1410805, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1290703, 0, 1427092, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1290703, 0, 1427389, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1290703, 0, 1434429, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1290703, 0, 1500267, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1290703, 0, 1514253, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1290703, 0, 1514413, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1290703, 0, 1514950, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1290703, 0, 1515187, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1290703, 0, 1515963, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1290703, 0, 1516263, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1372971, 0, 1518127, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1372971, 0, 1535164, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1372971, 0, 1535894, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1372971, 0, 1537047, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1372971, 0, 1570201, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1372971, 0, 1570391, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1499577, 0, 1571641, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1499577, 0, 1571981, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1499577, 0, 1586354, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1499577, 0, 1587388, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1499577, 0, 1588118, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1499577, 0, 1605225, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1499577, 0, 1623162, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1499577, 0, 1623365, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1499577, 0, 1623942, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1499577, 0, 1624179, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1499577, 0, 1625435, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1499577, 0, 1625745, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1534104, 0, 1627092, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1534104, 0, 1641732, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1534104, 0, 1642515, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1534104, 0, 1643205, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1534104, 0, 1673203, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1534104, 0, 1673399, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1604196, 0, 1674706, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1604196, 0, 1675019, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1604196, 0, 1690580, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1604196, 0, 1690963, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1604196, 0, 1692193, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1604196, 0, 1706566, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1604196, 0, 1724150, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1604196, 0, 1724310, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1604196, 0, 1724853, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1604196, 0, 1725090, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1604196, 0, 1725913, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1604196, 0, 1726213, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1641245, 0, 1728110, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1641245, 0, 1751744, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1641245, 0, 1752577, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1641245, 0, 1753207, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1641245, 0, 1785244, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1641245, 0, 1785448, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1705979, 0, 1786744, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1705979, 0, 1787101, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1705979, 0, 1803665, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1705979, 0, 1804001, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1705979, 0, 1804751, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1705979, 0, 1827768, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1705979, 0, 1844308, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1705979, 0, 1844495, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1705979, 0, 1845065, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1705979, 0, 1845288, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1705979, 0, 1846102, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1705979, 0, 1846378, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1751221, 0, 1848175, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1751221, 0, 1907066, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1751221, 0, 1913496, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1751221, 0, 1914130, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 1751221, 0, 1947420, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 1751221, 0, 1947580, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 1827222, 0, 1948934, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 1827222, 0, 1949274, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 1827222, 0, 1964210, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 1827222, 0, 1964534, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1827222, 0, 1965280, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1827222, 0, 2024748, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1827222, 0, 2040571, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1827222, 0, 2040791, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 1827222, 0, 2041325, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 1827222, 0, 2041568, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 1827222, 0, 2042841, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 1827222, 0, 2043285, NO TRIGGER, 0
+Reaction starts, runner, 2, 3, 1827222, 0, 2044122, NO TRIGGER, 0
+Reaction ends, runner, 2, 3, 1827222, 0, 2068659, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 1827222, 1, 2070495, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 1827222, 1, 2071379, NO TRIGGER, 0
+Reaction starts, factory, 0, 3, 1827222, 1, 2096296, NO TRIGGER, 0
+Reaction ends, factory, 0, 3, 1827222, 1, 2097389, NO TRIGGER, 0
+Reaction starts, barber, 0, 3, 1827222, 1, 2097799, NO TRIGGER, 0
+Reaction ends, barber, 0, 3, 1827222, 1, 2098022, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 1827222, 1, 2098479, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 1827222, 1, 2098639, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 1905986, 0, 2101119, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 1905986, 0, 2168300, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 1905986, 0, 2169247, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 1905986, 0, 2169563, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 1905986, 0, 2200391, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 1905986, 0, 2262705, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 1905986, 0, 2279545, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 1905986, 0, 2279765, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 2024196, 0, 2281482, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 2024196, 0, 2281875, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 2024196, 0, 2296312, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 2024196, 0, 2296592, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 2024196, 0, 2297245, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 2024196, 0, 2297459, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 2024196, 0, 2298175, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 2024196, 0, 2298559, NO TRIGGER, 0
+Reaction starts, runner, 2, 3, 2024196, 0, 2299769, NO TRIGGER, 0
+Reaction ends, runner, 2, 3, 2024196, 0, 2306906, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 2024196, 1, 2308859, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 2024196, 1, 2309202, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 2024196, 1, 2330996, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 2024196, 1, 2331279, NO TRIGGER, 0
+Reaction starts, barber, 0, 3, 2261885, 1, 2661458, NO TRIGGER, 0
+Reaction ends, barber, 0, 3, 2261885, 1, 2661825, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 2480875, 1, 2958766, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 2480875, 1, 2959099, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 2535443, 0, 2962556, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 2535443, 0, 3024153, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 2535443, 0, 3025263, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 2535443, 0, 3025547, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 2535443, 0, 3057791, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 2535443, 0, 3121898, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 2535443, 0, 3137128, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 2535443, 0, 3137865, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 2616761, 0, 3139388, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 2616761, 0, 3139795, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 2616761, 0, 3156869, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 2616761, 0, 3157149, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 2616761, 0, 3166059, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 2616761, 0, 3166302, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 2616761, 0, 3167799, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 2616761, 0, 3168122, NO TRIGGER, 0
+Reaction starts, runner, 2, 3, 2616761, 0, 3169062, NO TRIGGER, 0
+Reaction ends, runner, 2, 3, 2616761, 0, 3176302, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 2616761, 1, 3177922, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 2616761, 1, 3178229, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 2616761, 1, 3203133, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 2616761, 1, 3203466, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 3120705, 1, 3862556, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 3120705, 1, 3862906, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 3202113, 0, 3865676, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 3202113, 0, 3927317, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 3202113, 0, 3928407, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 3202113, 0, 3928697, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 3202113, 0, 3960538, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 3202113, 0, 4023829, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 3202113, 0, 4040559, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 3202113, 0, 4040769, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 3250150, 0, 4042326, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 3250150, 0, 4102467, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 3250150, 0, 4103887, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 3250150, 0, 4104513, NO TRIGGER, 0
+Reaction starts, customers, 1, 3, 3250150, 0, 4135820, NO TRIGGER, 0
+Reaction ends, customers, 1, 3, 3250150, 0, 4136017, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 3323495, 0, 4138344, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 3323495, 0, 4138807, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 3323495, 0, 4155481, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 3323495, 0, 4155917, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 3323495, 0, 4156721, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 3323495, 0, 4210648, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 3323495, 0, 4227825, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 3323495, 0, 4228552, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 3323495, 0, 4229072, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 3323495, 0, 4229309, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 3323495, 0, 4230199, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 3323495, 0, 4230535, NO TRIGGER, 0
+Reaction starts, runner, 2, 3, 3323495, 0, 4231895, NO TRIGGER, 0
+Reaction ends, runner, 2, 3, 3323495, 0, 4237295, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 3323495, 1, 4238972, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 3323495, 1, 4239342, NO TRIGGER, 0
+Reaction starts, factory, 0, 3, 3323495, 1, 4260526, NO TRIGGER, 0
+Reaction ends, factory, 0, 3, 3323495, 1, 4262259, NO TRIGGER, 0
+Reaction starts, barber, 0, 3, 3323495, 1, 4262499, NO TRIGGER, 0
+Reaction ends, barber, 0, 3, 3323495, 1, 4262642, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 3323495, 1, 4262852, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 3323495, 1, 4262969, NO TRIGGER, 0
+Reaction starts, factory, 1, 3, 3376455, 0, 4264316, NO TRIGGER, 0
+Reaction ends, factory, 1, 3, 3376455, 0, 4325670, NO TRIGGER, 0
+Reaction starts, room, 1, 3, 3376455, 0, 4327153, NO TRIGGER, 0
+Reaction ends, room, 1, 3, 3376455, 0, 4327890, NO TRIGGER, 0
+Reaction starts, barber, 2, 3, 3376455, 0, 4359177, NO TRIGGER, 0
+Reaction ends, barber, 2, 3, 3376455, 0, 4423528, NO TRIGGER, 0
+Reaction starts, customers, 2, 3, 3376455, 0, 4439658, NO TRIGGER, 0
+Reaction ends, customers, 2, 3, 3376455, 0, 4439885, NO TRIGGER, 0
+Reaction starts, barber, 1, 3, 3457431, 0, 4441512, NO TRIGGER, 0
+Reaction ends, barber, 1, 3, 3457431, 0, 4441845, NO TRIGGER, 0
+Reaction starts, room, 2, 3, 3457431, 0, 4458692, NO TRIGGER, 0
+Reaction ends, room, 2, 3, 3457431, 0, 4458942, NO TRIGGER, 0
+Reaction starts, customers, 3, 3, 3457431, 0, 4460135, NO TRIGGER, 0
+Reaction ends, customers, 3, 3, 3457431, 0, 4460342, NO TRIGGER, 0
+Reaction starts, factory, 4, 3, 3457431, 0, 4461635, NO TRIGGER, 0
+Reaction ends, factory, 4, 3, 3457431, 0, 4461919, NO TRIGGER, 0
+Reaction starts, runner, 2, 3, 3457431, 0, 4470099, NO TRIGGER, 0
+Reaction ends, runner, 2, 3, 3457431, 0, 4473962, NO TRIGGER, 0
+Reaction starts, runner, 1, 3, 3457431, 1, 4497556, NO TRIGGER, 0
+Reaction ends, runner, 1, 3, 3457431, 1, 4498113, NO TRIGGER, 0
+Reaction starts, factory, 0, 3, 3457431, 1, 4515169, NO TRIGGER, 0
+Reaction ends, factory, 0, 3, 3457431, 1, 4517299, NO TRIGGER, 0
+Reaction starts, room, 0, 3, 3457431, 1, 4517826, NO TRIGGER, 0
+Reaction ends, room, 0, 3, 3457431, 1, 4518026, NO TRIGGER, 0
